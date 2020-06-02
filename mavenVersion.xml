@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" vmOptions="-Xmx768m -Djavax.net.ssl.trustStore=cacerts -Djavax.net.ssl.trustStorePassword= -Djavax.net.ssl.keyStore=D:\Program\Java\jdk1.8.0_181\jre\lib\security -Djavax.net.ssl.keyStoreType=maven-ail -Djavax.net.ssl.keyStorePassword=changeit" mavenHome="F:\maven\apache-maven-3.6.3" />
+  <component name="MavenVersion" mavenHome="F:\maven\apache-maven-3.6.3" />
 </application>
